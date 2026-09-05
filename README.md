@@ -4,6 +4,10 @@ an open source Luau executor for Mac.
 
 # operation
 
+- download **Xcode** if you haven't....
+- open `.xcodeproj` and change anything
+- & then build and have fun with it!
+
 # history
 
 sunflower is originally a concept and a successor to [kawaii compiler](https://www.youtube.com/watch?v=lp7l711UAX0).
